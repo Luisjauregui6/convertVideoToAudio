@@ -1,0 +1,3 @@
+kivy
+yt_dlp
+pydub
